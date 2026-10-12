@@ -1,0 +1,10 @@
+build*/
+out/
+*.exe
+*.o
+*.obj
+*.bmp
+__pycache__/
+.idea/
+.vs/
+*.log
